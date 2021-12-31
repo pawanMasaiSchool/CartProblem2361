@@ -1,0 +1,6 @@
+.home {
+  border: 2px solid tomato;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
